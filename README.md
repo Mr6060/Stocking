@@ -1,0 +1,2 @@
+# Stocking
+Warehouse managment program
